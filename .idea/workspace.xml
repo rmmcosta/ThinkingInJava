@@ -5,6 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b69b053-1dfd-419c-8907-ea56a6f5ede7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Base8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedClass8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedOverloadedClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto$MyCleanser2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex13.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex15.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/OverloadedClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Rootd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stemd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Wheel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Window.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/DerivedProtected.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/OverloadOverride.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TestEx15Protected.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheOverride.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/reusingclasses/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/reusingclasses/Ex10.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/reusingclasses/Ex11.java" afterDir="false" />
@@ -273,12 +320,6 @@
               <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reusingclasses" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -295,7 +336,7 @@
     <property name="ToolWindowStructure.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551608701169" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552157358540" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -463,9 +504,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49268293" visible="true" weight="0.2753404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49268293" visible="true" weight="0.2753404" />
       <window_info id="Structure" order="1" sideWeight="0.50731707" side_tool="true" visible="true" weight="0.2753404" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -475,7 +515,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

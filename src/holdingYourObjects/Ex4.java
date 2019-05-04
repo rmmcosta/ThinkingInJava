@@ -4,18 +4,18 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-interface Iterator {
+interface MyIterator {
     boolean hasNext();
     void reset();
 }
 
-interface StringIterator extends Iterator {
+interface StringIterator extends MyIterator {
     String next();
 }
 
 class MovieCharacteres {
     private String[] chars = {"Wolverine","Optimus Prime","Bumble Bee","Capitain America"};
-    private Iterator iter;
+    private MyIterator iter;
     private int curr;
     MovieCharacteres() {
         curr = 0;

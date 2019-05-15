@@ -1,7 +1,5 @@
 package innerclasses;
 
-import com.sun.istack.internal.Pool;
-
 public class ImplementInterfWithClass implements InterfaceWithClass {
     @Override
     public int method() {

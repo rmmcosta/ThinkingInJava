@@ -1,7 +1,5 @@
 package holdingYourObjects;
 
-import javafx.collections.transformation.SortedList;
-
 import java.util.*;
 
 public class Ex11 {

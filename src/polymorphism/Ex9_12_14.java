@@ -3,7 +3,7 @@ package polymorphism;
 import java.sql.Timestamp;
 import java.util.Date;
 import java.util.Random;
-
+@SuppressWarnings("deprecation")
 class Cheese {
     private static int refCount = 0;
 
@@ -110,7 +110,7 @@ public class Ex9_12_14 {
         Class<?> rodents[] = {Rodent.class, Mouse.class, Gerbil.class, Hamster.class};
         try {
             int idx = r.nextInt(rodents.length);
-            return (Rodent) rodents[idx].newInstance();
+            return (Rodent) rodents[idx].getDeclaredConstructor().newInstance();
         } catch (Exception e) {
             throw new RuntimeException("Unable to generate Rodents", e);
         }

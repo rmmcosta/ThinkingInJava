@@ -19,5 +19,20 @@ public class Ex13_LinkedList {
         };
         gc.add(gc.getRestart(2000, eventList));
         gc.go();
+        System.out.println("Another Begin --------------------");
+        GreenhouseControlsLinked gcl = new GreenhouseControlsLinked();
+// Instead of hard-wiring, you could parse
+// configuration information from a text file here:
+        gcl.add(gcl.getBell(900));
+        Event[] eventListl = {
+                gcl.getThermostatNight(0),
+                gcl.getLightsON(200),
+                gcl.getLightsOff(400),
+                gcl.getWaterOn(600),
+                gcl.getWaterOff(800),
+                gcl.getThermostatDay(1400)
+        };
+        gcl.add(gcl.getRestart(2000, eventListl));
+        gcl.go();
     }
 }

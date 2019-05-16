@@ -5,450 +5,18 @@
   </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/holdingYourObjects/Ex12.java" line="28" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/src/holdingYourObjects/Ex15.java" line="11" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b69b053-1dfd-419c-8907-ea56a6f5ede7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/ControllerLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/GreenhouseControlsLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/holdingYourObjects/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/AnotherConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/AnotherConnection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/CMWithCheckIn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/CMWithCheckIn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/CMWithCheckInClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/CMWithCheckInClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Connection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionManagerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionManagerClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ConnectionTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex07/Ex7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex07/Ex7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex5Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex5Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Ex6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ImportStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ImportStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Lunch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Lunch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ProtData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/ProtData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Soup1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Soup1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Soup2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Soup2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/StaticConnectionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/StaticConnectionManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/StaticConnectionManagerClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/StaticConnectionManagerClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Widget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/Widget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/local/Foreign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/local/Foreign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/local/PackagedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/local/PackagedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/other/Foreign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/AccessControl/other/Foreign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex10_VampireNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex10_VampireNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex9_Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/Ex9_Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/SieveOfEratosthenes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/ControllingExecution/SieveOfEratosthenes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20Enum$EuroCurrency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20Enum$EuroCurrency.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20Enum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex20Enum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex21$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex21$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Ex9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/StaticBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Tank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/InitializationAndCleanup/Tank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/META-INF/Thinking in Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/ChildClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/ChildClass1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/MyClass$InnerMyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/MyClass$InnerMyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/classpack/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/debug/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/debug/Furniture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/debugoff/Furniture.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/debugoff/Furniture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Ex9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Incrementable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/Incrementable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/StaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/everythingisanobject/StaticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Apple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ApplesAndOrangesWithGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ApplesAndOrangesWithGenerics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ApplesAndOrangesWithoutGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ApplesAndOrangesWithoutGenerics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ArraysAsList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ArraysAsList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/AsListInference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/AsListInference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Cena.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Cena.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Crusty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Crusty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Cup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Cup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex9$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex9$Ex9Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex9$Ex9Selector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GenericsAndUpcasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GenericsAndUpcasting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Gerbil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Gerbil8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Gerbil8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GoldApple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GoldApple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GreenApple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/GreenApple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Heavy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Heavy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/IteratorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ListFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/ListFeatures.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MovieCharacteres$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MovieCharacteres$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MovieCharacteres.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MovieCharacteres.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MyIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/MyIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Orange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Orange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Powder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Powder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Cheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Gerbil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Hamster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/PublicPolymorphism/Rodent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/RanetaApple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/RanetaApple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Selector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Sequence$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Sequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Slush.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Slush.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Snow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Snow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/StringIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/StringIterator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonDestin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonDestin$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonDestin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonDestin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonPrivate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonWraping$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonWraping$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonWraping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/AnonWraping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anonimous$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anonimous$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anonimous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Anonimous.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Antoher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Beta$Charlie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Beta$Charlie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Beta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Beta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bicycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bicycle$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg$Yolk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg2$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg2$Yolk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BigEgg2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Bike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BlueCars$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BlueCars$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BlueCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/BlueCars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callbacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callbacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callbacks1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callbacks1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee2$Closure.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee2$Closure.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Callee2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Caller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Caller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CarFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CarMaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CarMaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassA$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassA$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ClassConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Coin$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Coin$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Coin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/CycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Destination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Destination.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Dice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Dice$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Dice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg$Yolk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg2$Yolk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg2$Yolk.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Egg2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Father$FatherInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Father$FatherInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/FatherAndSon$FatherAndSonInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/FatherAndSon$FatherAndSonInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/FatherAndSon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/FatherAndSon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls$LightsON.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls$LightsON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls$WaterOn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls$WaterOn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/GreenhouseControls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ImplementInterfWithClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ImplementInterfWithClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Incrementable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Incrementable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InheritInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InheritInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceWithClass$InterfNestedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceWithClass$InterfNestedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceWithClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/InterfaceWithClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Kawasaki$KaMotor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Kawasaki$KaMotor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Kawasaki.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Kawasaki.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass$1LocalCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass$1LocalCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LocalInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LotOfCycles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/LotOfCycles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Motor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/MyIncrement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/MyIncrement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/MySequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/MySequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/NewInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/NewInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/RedCars$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/RedCars$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/RedCars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/RedCars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Selector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Selector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence$ReverseSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence$ReverseSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence$SequenceSelector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence$SequenceSelector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Sequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/StartMotors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/StartMotors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/StringClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$1Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$1Impl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$2Impl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$2Impl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$Inner$InnerInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$Inner$InnerInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$InnerStatic$InnerInnerStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$InnerStatic$InnerInnerStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$InnerStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement$InnerStatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheImplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TheInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ThePrivate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/ThePrivate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingFramework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingFramework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/TossingObjectFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Tricycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Tricycle$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Tricycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Unicycle$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Unicycle$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Unicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/V6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/V6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/WithInner$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/WithInner$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/WithInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/WithInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Wrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/Wrapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/Controller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/EventTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/EventTest$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/EventTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/EventTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/FootballGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/innerclasses/controller/FootballGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfacepack/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfacepack/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/BiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/BiFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Coin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Coin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/CoinFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/CoinFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/CycleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/CycleFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DangerousMonster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DangerousMonster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Dice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Dice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DiceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DiceFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DragonZilla.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/DragonZilla.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/HorrorShow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Lethal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Lethal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/LotOfCycles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/LotOfCycles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Monster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingFramework.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingFramework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingObjectFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TossingObjectFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TriFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/TriFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Tricycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Tricycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/UniFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/UniFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Unicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Unicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Vampire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/Vampire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/VeryBadVampire.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/VeryBadVampire.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Apply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Downcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Downcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Splitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Splitter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Upcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/classprocessor/Upcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/BandPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/BandPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/Filter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/Filter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/HighPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/HighPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/LowPass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/LowPass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/Waveform.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/filters/Waveform.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Apply.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Apply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Downcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Downcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/FilterAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/FilterAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/FilterProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/FilterProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Processor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Processor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Splitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Splitter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/StringProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/StringProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/SwapProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/SwapProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Upcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/interfaceprocessor/Upcase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/C3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/C3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/I3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/MultiInterfaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/multipleinterfaces/MultiInterfaces.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/OutAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/OutAdapter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/OutputChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/OutputChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/RandomWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/scanner/RandomWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/staticfinal/ConstImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/staticfinal/ConstImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/staticfinal/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/interfaces/staticfinal/Constants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/CoinFlipping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/CoinFlipping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/operators/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/AlertStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/AlertStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Basketball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Basketball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Bicycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Cheese.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Cheese.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Composing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Composing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Cycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Cycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex9_12_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Ex9_12_14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Football.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Football.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Gerbil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Gerbil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Hamster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Jato.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Jato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Motor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Motor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/ReferenceCounting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/ReferenceCounting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Rodent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Rodent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Shared.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Starship$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Starship$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Starship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Starship.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Swimming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/Swimming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/TriCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/TriCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/VW.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/polymorphism/VW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/privatepack/PrivateClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/privatepack/PrivateClass$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/privatepack/PrivateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/privatepack/PrivateClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/A7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/A7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Amphibian2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/AnObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/AnObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/B7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/B7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Base.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Base8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Base8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Beetle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Beetle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/BoardGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/BoardGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/C7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Chess.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Chess.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Cleanser3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1d.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component1d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2d.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component2d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component32.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3d.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Component3d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedClass8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedClass8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedOverloadedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/DerivedOverloadedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Detergent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Detergent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Door.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/E18_FinalFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/E18_FinalFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto$MyCleanser2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto$MyCleanser2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex11Auto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex19.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex21.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Ex9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/FinalC.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/FinalC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/FinalC1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/FinalC1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Frog2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Insect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Insect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/OverloadedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/OverloadedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/OverridePrivateMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/OverridePrivateMethod.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Root2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Rootd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Rootd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Second.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/SelfCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/SelfCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Simple.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Simple.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Son23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Son23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stemd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Stemd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/TestFinal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/TestFinal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/TheObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/TheObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Utilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Utilities.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/V2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/V2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Wheel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Wheel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/Window.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/WithFinalFields.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/reusingclasses/WithFinalFields.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Champion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Champion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Clubs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Clubs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/DerivedProtected.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/DerivedProtected.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Downcast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Downcast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Father15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Father15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/OverloadOverride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/OverloadOverride.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunDebug.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunDebug.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunEx4Protected.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunEx4Protected.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunEx5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunEx5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/RunTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Son15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Son15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/Son152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/Son152.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/TestEx15Protected.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TestEx15Protected.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheOverride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/test/TheOverride.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/thirdpack/MyChildClass$MyChildInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/thirdpack/MyChildClass$MyChildInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/thirdpack/MyChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/thirdpack/MyChildClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Cymric.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Cymric.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Hamster.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Hamster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Mouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Pet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Pets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/typeinfo/pets/Pets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/holdingYourObjects/Ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerclasses/GreenhouseControls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerclasses/GreenhouseControls.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerclasses/controller/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerclasses/controller/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex13_LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Thinking in Java/holdingYourObjects/Ex13_LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -481,23 +49,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="112" column="78" selection-start-line="112" selection-start-column="78" selection-end-line="112" selection-end-column="78" />
+            <state relative-caret-position="226">
+              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#98#130#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex11.java">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex14.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="27" selection-start-column="27" selection-end-column="27" />
+            <state relative-caret-position="204">
+              <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#173#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
+                <element signature="e#610#618#0" expanded="true" />
+                <element signature="e#952#961#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex15.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#134#145#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -505,7 +114,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="-391">
               <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -514,82 +123,62 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="-280">
+              <caret line="309" column="27" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#10079#10080#0" expanded="true" />
+                <element signature="e#10117#10118#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Controller.java">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ListIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="668">
+              <caret line="171" column="9" selection-start-line="171" selection-start-column="9" selection-end-line="171" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/GreenhouseControls.java">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ControllerLinked.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="78" selection-end-column="26" />
+            <state relative-caret-position="276">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
-                <element signature="e#1925#1926#0" expanded="true" />
-                <element signature="e#1980#1981#0" expanded="true" />
-                <element signature="e#2030#2031#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#227#234#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#651#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Event.java">
+        <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="287" column="12" selection-start-line="287" selection-start-column="12" selection-end-line="287" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java">
+        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/GreenhouseControlsLinked.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/PublicPolymorphism/Rodent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="123">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -618,6 +207,8 @@
       <find>polymorphism.Cheese</find>
       <find>polymorphism.Gerbil</find>
       <find>new</find>
+      <find>gc</find>
+      <find>sts</find>
     </findStrings>
     <replaceStrings>
       <replace>System.out.println</replace>
@@ -632,6 +223,8 @@
       <replace>Cheese</replace>
       <replace>Gerbil</replace>
       <replace>get</replace>
+      <replace>gcl</replace>
+      <replace>ints</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -640,11 +233,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reusingclasses/OverridePrivateMethod.java" />
-        <option value="$PROJECT_DIR$/src/reusingclasses/Ex21.java" />
-        <option value="$PROJECT_DIR$/src/reusingclasses/Ex23.java" />
-        <option value="$PROJECT_DIR$/src/reusingclasses/Ex24.java" />
-        <option value="$PROJECT_DIR$/src/reusingclasses/Beetle.java" />
         <option value="$PROJECT_DIR$/src/test/Champion.java" />
         <option value="$PROJECT_DIR$/src/polymorphism/Ex1.java" />
         <option value="$PROJECT_DIR$/src/polymorphism/ex8.java" />
@@ -688,9 +276,14 @@
         <option value="$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java" />
         <option value="$PROJECT_DIR$/src/holdingYourObjects/Ex11.java" />
         <option value="$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java" />
-        <option value="$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/controller/Event.java" />
         <option value="$PROJECT_DIR$/src/innerclasses/GreenhouseControls.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/GreenhouseControlsLinked.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/ControllerLinked.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Ex14.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Stack.java" />
+        <option value="$PROJECT_DIR$/src/holdingYourObjects/Ex15.java" />
       </list>
     </option>
   </component>
@@ -747,13 +340,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Thinking in Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Thinking in Java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="innerclasses" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -780,22 +366,22 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="innerclasses" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="interfaces" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="holdingYourObjects.PublicPolymorphism" />
-      <recent name="holdingYourObjects" />
-      <recent name="AccessControl.local" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Ricardo\myProjects\Thinking in Java\src\holdingYourObjects" />
       <recent name="C:\Users\Ricardo\myProjects\Thinking in Java\src\reusingclasses" />
       <recent name="C:\Users\Ricardo\myProjects\Thinking in Java\src\holding" />
       <recent name="C:\Users\Ricardo\myProjects\Thinking in Java\src\innerclasses" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="holdingYourObjects" />
+      <recent name="holdingYourObjects.PublicPolymorphism" />
+      <recent name="AccessControl.local" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="innerclasses" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -810,35 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex13_LinkedList">
-    <configuration name="Ex11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Ex11" />
-      <module name="Thinking in Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="holdingYourObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Ex12" />
-      <module name="Thinking in Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="holdingYourObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex15">
     <configuration name="Ex13_LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Ex13_LinkedList" />
       <module name="Thinking in Java" />
@@ -853,13 +411,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex9_12_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.Ex9_12_14" />
+    <configuration name="Ex14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Ex14" />
       <module name="Thinking in Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
+          <option name="PATTERN" value="holdingYourObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Ex15" />
+      <module name="Thinking in Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="holdingYourObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -874,6 +446,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="innerclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="holdingYourObjects.Stack" />
+      <module name="Thinking in Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="holdingYourObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -904,19 +490,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex11" />
-      <item itemvalue="Application.Ex12" />
-      <item itemvalue="Application.Ex9_12_14" />
       <item itemvalue="Application.Ex13_LinkedList" />
       <item itemvalue="Application.GreenhouseControls" />
+      <item itemvalue="Application.Ex14" />
+      <item itemvalue="Application.Stack" />
+      <item itemvalue="Application.Ex15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex15" />
+        <item itemvalue="Application.Stack" />
+        <item itemvalue="Application.Ex14" />
         <item itemvalue="Application.Ex13_LinkedList" />
         <item itemvalue="Application.GreenhouseControls" />
-        <item itemvalue="Application.Ex12" />
-        <item itemvalue="Application.Ex9_12_14" />
-        <item itemvalue="Application.Ex11" />
       </list>
     </recent_temporary>
   </component>
@@ -953,8 +539,8 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.60243905" visible="true" weight="0.3161876" />
-      <window_info id="Structure" order="1" sideWeight="0.39756098" side_tool="true" visible="true" weight="0.3161876" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6" visible="true" weight="0.3207262" />
+      <window_info id="Structure" order="1" sideWeight="0.4" side_tool="true" visible="true" weight="0.3207262" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -963,15 +549,15 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49394855" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4924357" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5060514" side_tool="true" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5075643" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.494705" weight="0.3289689" />
       <window_info anchor="bottom" id="Extract Method" order="12" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -995,245 +581,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <element signature="e#60#61#0" expanded="true" />
-            <element signature="e#96#97#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
-          <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#63#64#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
-            <element signature="e#1956#1957#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-          <folding>
-            <element signature="e#62#63#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InitializationAndCleanup/Ex10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InitializationAndCleanup/Ex11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InitializationAndCleanup/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/ReferenceCounting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex14.java" />
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/Sequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Downcast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#56#57#0" expanded="true" />
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="106" column="26" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ArraysAsList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#334#342#0" expanded="true" />
-            <element signature="e#551#559#0" expanded="true" />
-            <element signature="e#1268#1276#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Gerbil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/AsListInference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="49" column="34" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-          <folding>
-            <element signature="e#723#729#0" expanded="true" />
-            <element signature="e#938#944#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/function/Consumer.java" />
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ApplesAndOrangesWithGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#229#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/GenericsAndUpcasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding>
-            <element signature="e#420#427#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ApplesAndOrangesWithoutGenerics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-          <folding>
-            <element signature="e#295#325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ListFeatures.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Mouse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Cymric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Pets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Random.java" />
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/typeinfo/pets/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1382,13 +729,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/PublicPolymorphism/Rodent.java">
+    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="324">
+          <caret line="112" column="78" selection-start-line="112" selection-start-column="78" selection-end-line="112" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#98#130#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1402,52 +764,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/ImplementInterfWithClass.java">
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/PublicPolymorphism/Rodent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/polymorphism/Ex9_12_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="112" column="78" selection-start-line="112" selection-start-column="78" selection-end-line="112" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#98#130#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Event.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+        <state relative-caret-position="119">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1456,23 +776,314 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/innerclasses/GreenhouseControls.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="78" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
           <folding>
-            <element signature="e#1925#1926#0" expanded="true" />
-            <element signature="e#1980#1981#0" expanded="true" />
-            <element signature="e#2030#2031#0" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
             <element signature="e#2098#2099#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#3442#3443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/text/Format.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="851" selection-start-line="851" selection-end-line="851" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/sun/util/calendar/ZoneInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="640" selection-start-line="640" selection-end-line="640" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/TimeZone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="641" selection-start-line="641" selection-end-line="641" />
+          <folding>
+            <element signature="e#23976#23977#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/StringLatin1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="701" selection-start-line="701" selection-end-line="701" />
+          <folding>
+            <element signature="e#24839#24840#0" expanded="true" />
+            <element signature="e#24885#24886#0" expanded="true" />
+            <element signature="e#132657#132658#0" expanded="true" />
+            <element signature="e#132711#132712#0" expanded="true" />
+            <element signature="e#132795#132796#0" expanded="true" />
+            <element signature="e#132852#132853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/sun/util/locale/LocaleUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+          <folding>
+            <element signature="e#3816#3817#0" expanded="true" />
+            <element signature="e#3887#3888#0" expanded="true" />
+            <element signature="e#4497#4498#0" expanded="true" />
+            <element signature="e#4546#4547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="1314" selection-start-line="1314" selection-end-line="1314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="1659" selection-start-line="1659" selection-end-line="1659" />
+          <folding>
+            <element signature="e#67441#67442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="599" selection-start-line="599" selection-end-line="599" />
+          <folding>
+            <element signature="e#23924#23925#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.instrument/java/lang/instrument/ClassFileTransformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="245" selection-start-line="245" selection-end-line="245" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.instrument/sun/instrument/TransformerManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1039#1040#0" expanded="true" />
+            <element signature="e#5089#5090#0" expanded="true" />
+            <element signature="e#5128#5129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.instrument/sun/instrument/InstrumentationImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="562" selection-start-line="562" selection-end-line="562" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="892" selection-start-line="892" selection-end-line="892" />
+          <folding>
+            <element signature="e#16006#16007#0" expanded="true" />
+            <element signature="e#16056#16057#0" expanded="true" />
+            <element signature="e#26585#26586#0" expanded="true" />
+            <element signature="e#26632#26633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractSequentialList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="237" selection-start-line="237" selection-end-line="237" />
+          <folding>
+            <element signature="e#8783#8784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/innerclasses/controller/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#763#764#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/GreenhouseControlsLinked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#1653#1654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="287" column="12" selection-start-line="287" selection-start-column="12" selection-end-line="287" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/ControllerLinked.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#227#234#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#651#658#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex13_LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="226">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/ListIterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="171" column="9" selection-start-line="171" selection-start-column="9" selection-end-line="171" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1657">
+          <caret line="689" column="22" selection-start-line="689" selection-start-column="22" selection-end-line="689" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#173#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="309" column="27" selection-start-line="309" selection-start-column="27" selection-end-line="309" selection-end-column="27" />
+          <folding>
+            <element signature="e#10079#10080#0" expanded="true" />
+            <element signature="e#10117#10118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#610#618#0" expanded="true" />
+            <element signature="e#952#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holdingYourObjects/Ex15.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#134#145#0" expanded="true" />
           </folding>
         </state>
       </provider>

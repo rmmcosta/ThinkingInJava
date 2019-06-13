@@ -36,7 +36,7 @@ public class Apply{
         System.out.println(p.process(s));
     }
 
-    public static String s = "Once upon a time...";
+    public static String s = "Once upon a timeUtilities...";
 
     public static void main(String[] args) {
         process(new Upcase(),s);

@@ -1,5 +1,9 @@
 package innerclasses.controller;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
 public abstract class Event {
     private long triggerTime;
     protected final long delayTime;
@@ -11,7 +15,9 @@ public abstract class Event {
     }
     //allows restart
     public void start(){
-        System.out.println(System.nanoTime());
+        DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+        Date date = new Date();
+        System.out.println("Starting event at:"+dateFormat.format(date));
         triggerTime = System.nanoTime() + delayTime;
         //System.out.println(triggerTime);
     }

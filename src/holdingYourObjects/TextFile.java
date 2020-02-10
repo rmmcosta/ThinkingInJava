@@ -32,16 +32,18 @@ public class TextFile{
 
     public static void main(String[] args) throws IOException {
         Set<String> words = new TreeSet<String>(
-                TextFile.getDistinctWords("C:\\Users\\Ricardo\\Desktop" +
-                "\\New Text Document.txt","[^a-zA-Z_0-9]"));
+                TextFile.getDistinctWords("/home/rmmcosta/Documents/ThinkingInJava/" +
+                "TextDocument.txt","[^a-zA-Z_0-9]"));
+        //for windows the previous path must be adjusted
+        //http://tutorials.jenkov.com/java-nio/path.html
         System.out.println(words);
         System.out.println(words.size());
         Iterator<String> it = words.iterator();
         System.out.println("next:"+it.next());
         System.out.println("next:"+it.next());
         Set<String> words2 = new TreeSet<String>(String.CASE_INSENSITIVE_ORDER);
-        words2.addAll(TextFile.getDistinctWords("C:\\Users\\Ricardo\\Desktop" +
-                "\\New Text Document.txt","[^a-zA-Z_0-9]"));
+        words2.addAll(TextFile.getDistinctWords("/home/rmmcosta/Documents/ThinkingInJava/" +
+                "TextDocument.txt","[^a-zA-Z_0-9]"));
         System.out.println(words2);
         System.out.println(words2.size());
         Iterator<String> it2 = words2.iterator();

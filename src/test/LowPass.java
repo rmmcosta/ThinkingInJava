@@ -19,6 +19,10 @@ public class LowPass extends Filter {
     public String getName() {
         return "Low pass filter with a low cutoff of: " + lowCutOff;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
 class LowPassTest {

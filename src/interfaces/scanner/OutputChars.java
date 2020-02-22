@@ -4,8 +4,8 @@ import java.nio.CharBuffer;
 import java.util.Scanner;
 
 public class OutputChars {
-    public char outchar() {
-        return 'a';
+    public String outchars() {
+        return "abcd";
     }
 
     public static void main(String[] args){
@@ -30,8 +30,11 @@ class OutAdapter implements Readable {
         if(count--==0){
             return -1;
         }
-        cb.append(oc.outchar());
+        char[] chars = oc.outchars().toCharArray();
+        for(char c:chars) {
+            cb.append(c);
+        }
         cb.append(" ");
-        return 2;
+        return chars.length;
     }
 }

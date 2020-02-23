@@ -131,13 +131,12 @@ public class GreenhouseControls extends Controller {
         public Restart(long delayTime) {
             super(delayTime);
             eventListBackup = GreenhouseControls.this.getEventList();
+            //TODO see also if something needs to change here to achieve what is intended in the action method
         }
 
         @Override
         public void action() {
-            for (Event e : eventListBackup) {
-                GreenhouseControls.this.addEvent(e);
-            }
+            //TODO implement this action in order to restart the events
         }
     }
 }

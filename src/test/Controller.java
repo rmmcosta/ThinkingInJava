@@ -21,8 +21,8 @@ public class Controller {
         while (!eventList.isEmpty()) {
             for (Event e : new ArrayList<Event>(eventList)) {
                 if(e.ready()) {
-                    e.action();
                     System.out.println(e);
+                    e.action();
                     eventList.remove(e);
                 }
             }

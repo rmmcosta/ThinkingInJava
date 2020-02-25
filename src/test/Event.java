@@ -7,8 +7,12 @@ import static test.MyDateTime.getCurrDateTime;
 import static test.MyDateTime.toDateTime;
 
 public abstract class Event {
+    public long getEventTime() {
+        return eventTime;
+    }
+
     private long eventTime;
-    private final long delayTime;
+    protected final long delayTime;
 
     public Event(long delayTime) {
         this.delayTime = delayTime;
@@ -16,9 +20,9 @@ public abstract class Event {
     }
 
     public void start() {
-        System.out.println("Current time: " + toDateTime(System.currentTimeMillis()));
+        //System.out.println("Current time: " + toDateTime(System.currentTimeMillis()));
         eventTime = System.currentTimeMillis() + delayTime;
-        System.out.println("Event time: " + toDateTime(eventTime));
+        //System.out.println("Event time: " + toDateTime(eventTime));
     }
 
     public Boolean ready() {

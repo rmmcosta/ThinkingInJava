@@ -1,0 +1,18 @@
+alt + enter
+alt + enter followed by f2 to navigate through the options
+alt + 1 to open the project window
+esc to focus on the editor
+ctrl + e to open the most recent files
+ctrl + b to go to a declaration
+ctrl + alt + b to go to a implementation
+alt + f7 will show us usages
+double tap the ctrl to open the run anything window
+ctrl + w and shift + ctrl + w to increase or decrease code selections
+ctrl + / to add comments and ctrl + / to uncomment it again
+shift + ctrl + / to comment multiple lines of code
+shift + ctrl + enter to complete the current statement
+ctrl + alt + l to format the code
+shift + ctrl + alt + l to select what do we want to reformat
+shift + ctrl + alt + t to access the refactor options
+shift + ctrl + a to search for any action
+tap shift twice opens a search box

@@ -16,9 +16,16 @@ public class Ex19 {
         String[] keys = hSet.toArray(new String[0]);
         Arrays.sort(keys);
         Set<String> lSet = new LinkedHashSet<>();
-        for(String s:keys) {
+        for (String s : keys) {
             lSet.add(s);
         }
         System.out.println(lSet);
+        //or without using the for cycle
+        //in this case we just pass the array as a list to the linked hashset constructor
+        Set<String> sortedSet = new LinkedHashSet<>(Arrays.asList(keys));
+        System.out.println(sortedSet);
+
+        Set<String> randomSorted = new HashSet<>(Arrays.asList(keys));
+        System.out.println("random sorted: " + randomSorted);
     }
 }

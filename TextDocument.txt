@@ -1,3 +1,5 @@
 This text file is intended to test the implementation
 of a solution for the exercise 25 of the holding your objects
 chapter.
+Away and far away.
+Ana and me leaving together in harmony.

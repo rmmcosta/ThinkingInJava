@@ -14,8 +14,7 @@ public class Ex16 {
         // Create a Set of the vowels.
         System.out.println("Begin");
         printCurrTimestamp();
-        int totalVowels = getTotalVowels("C:\\Users\\Ricardo\\Desktop" +
-                "\\New Text Document.txt");
+        int totalVowels = getTotalVowels("/home/ricardo/IdeaProjects/Github/ThinkingInJava/TextDocument.txt");
 
         // and also display the total number of vowels in the input file.
         System.out.println("The file has " + totalVowels + " different vowels.");

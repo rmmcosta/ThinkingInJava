@@ -4,18 +4,12 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.*;
 
+import static common.Common.charArray2CharacterArray;
+
 public class Vowels {
     private static final String vowels = "aeiouAEIOU";
     private static final Character[] vowelsArray = charArray2CharacterArray(vowels.toCharArray());
     private static final Set<Character> vowelsSet = new HashSet<Character>(Arrays.asList(vowelsArray));
-
-    public static Character[] charArray2CharacterArray(char[] charArray) {
-        Character[] tempArray = new Character[charArray.length];
-        for (int i = 0; i < charArray.length; i++) {
-            tempArray[i] = charArray[i];
-        }
-        return tempArray;
-    }
 
     // all the get number vowels methods give us the number of vowels in the given words
     public static List<Integer> getNumberVowels(List<String> words) {

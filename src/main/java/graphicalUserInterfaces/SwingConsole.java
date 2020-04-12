@@ -17,6 +17,10 @@ public class SwingConsole {
         runFrame(frame, 400, 400, new FlowLayout(), visible);
     }
 
+    public static void runFrame(final JFrame frame, final int width, final int height, final LayoutManager layoutManager) {
+        runFrame(frame, width, height, layoutManager, true);
+    }
+
     public static void runFrame(final JFrame frame, final int width, final int height, final LayoutManager layoutManager, final boolean visible) {
         SwingUtilities.invokeLater(new Runnable() {
             @Override

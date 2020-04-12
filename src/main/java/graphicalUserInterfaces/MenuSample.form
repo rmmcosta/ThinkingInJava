@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="graphicalUserInterfaces.MenuSample">
+  <grid id="27dc6" binding="mainPanel" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="ccb6d" class="javax.swing.JMenuBar" binding="mainMenuBar">
+        <constraints/>
+        <properties>
+          <background color="-14854478"/>
+          <foreground color="-1118482"/>
+          <margin top="10" left="10" bottom="10" right="10"/>
+        </properties>
+      </component>
+      <component id="87816" class="javax.swing.JMenu" binding="mainMenu">
+        <constraints/>
+        <properties>
+          <background color="-15585793"/>
+          <foreground color="-1"/>
+          <hideActionText value="true"/>
+          <text value="Menu"/>
+          <verticalAlignment value="0"/>
+        </properties>
+      </component>
+      <component id="d39d4" class="javax.swing.JMenuItem" binding="item1">
+        <constraints/>
+        <properties>
+          <text value="item 1"/>
+        </properties>
+      </component>
+      <component id="f488a" class="javax.swing.JMenuItem" binding="item2">
+        <constraints/>
+        <properties>
+          <text value="item 2"/>
+        </properties>
+      </component>
+      <grid id="7a5ed" binding="infoPanel" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="true" same-size-vertically="true" hgap="-1" vgap="-1">
+        <margin top="0" left="0" bottom="0" right="0"/>
+        <constraints/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="ab25e" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="3" indent="0" use-parent-layout="false">
+                <preferred-size width="150" height="92"/>
+              </grid>
+            </constraints>
+            <properties/>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

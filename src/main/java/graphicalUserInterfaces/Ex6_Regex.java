@@ -108,7 +108,7 @@ class FocusSetter extends WindowAdapter {
     }
 }
 
-public class Ex6 {
+public class Ex6_Regex {
     public static void main(String[] args) {
         Regex frame = new Regex();
         SwingConsole.runFrame(frame);

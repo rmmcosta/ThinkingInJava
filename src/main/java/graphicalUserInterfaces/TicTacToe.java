@@ -42,13 +42,104 @@ public class TicTacToe extends JFrame {
         }
     }
 
-    private enum State {BLANK, X, O}
+    enum State {BLANK, X, O}
 
-    private enum Status {WIN, DRAW, CONTINUE}
+    enum Status {WIN, DRAW, CONTINUE}
 
-    static class ToeDialog extends JDialog {
+    public static class ToeDialog extends JDialog {
         private State turn = State.X;
         private TicTacToe parentTicTacToe;
+
+        public ToeButton getNewToeButton() {
+            return new ToeButton();
+        }
+
+        public Status evaluateStatus(Component[] toeButtons, int rows, int cols) {
+            // we need to check rows, columns, and 2 of the 4 corners if rows == cols
+            //columns
+            for (int i = 0; i < cols; i++) {
+                State prevState = ((ToeButton) toeButtons[i]).state;
+                boolean isEqualColumns = prevState != State.BLANK;
+                for (int j = i + cols; j < cols * rows; j += cols) {
+                    State currState = ((ToeButton) toeButtons[j]).state;
+                    if (prevState != currState) {
+                        isEqualColumns = false;
+                        break;
+                    }
+                }
+                if (isEqualColumns) {
+                    System.out.println("is equal columns");
+                    return Status.WIN;
+                }
+            }
+            //rows
+            for (int i = 0; i <= rows * cols - cols; i += cols) {
+                State prevState = ((ToeButton) toeButtons[i]).state;
+                boolean isEqualRows = prevState != State.BLANK;
+                ;
+                for (int j = i + 1; j < i + cols; j++) {
+                    State currState = ((ToeButton) toeButtons[j]).state;
+                    if (prevState != currState) {
+                        isEqualRows = false;
+                        break;
+                    }
+                }
+                if (isEqualRows) {
+                    System.out.println("is equal rows");
+                    return Status.WIN;
+                }
+            }
+            //corners
+            if (rows == cols) {
+                //evaluate corners
+                boolean isEqual = true;
+                State prevState = ((ToeButton) toeButtons[0]).state;
+                for (int i = cols+1; i < cols*rows; i+=cols+1) {
+                    State currState = ((ToeButton) toeButtons[i]).state;
+                    isEqual = currState == prevState && currState != State.BLANK;
+                    if (prevState != currState) {
+                        isEqual = false;
+                        break;
+                    } else {
+                        prevState = currState;
+                    }
+                }
+                if (isEqual) {
+                    return Status.WIN;
+                }
+                prevState = ((ToeButton) toeButtons[cols - 1]).state;
+                for (int i = cols - 2; i >= 0; i--) {
+                    isEqual = prevState != State.BLANK;
+                    for (int j = 1; j < rows; j++) {
+                        if (i + j != cols - 1) {
+                            continue;
+                        }
+                        State currState = ((ToeButton) toeButtons[i + cols * j]).state;
+                        if (prevState != currState) {
+                            isEqual = false;
+                            break;
+                        }
+                    }
+                    if (!isEqual) {
+                        break;
+                    }
+                }
+                if (isEqual) {
+                    System.out.println("is equal corners");
+                    return Status.WIN;
+                }
+            }
+
+            // no more moves
+            for (int i = 0; i < rows * cols; i++) {
+                State currState = ((ToeButton) toeButtons[i]).state;
+                if (currState == State.BLANK) {
+                    return Status.CONTINUE;
+                }
+            }
+
+            return Status.DRAW;
+        }
 
         public ToeDialog(int rows, int cols, TicTacToe parentTicTacToe) {
             this.parentTicTacToe = parentTicTacToe;
@@ -61,8 +152,8 @@ public class TicTacToe extends JFrame {
             setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         }
 
-        private class ToeButton extends JPanel {
-            private State state = State.BLANK;
+        class ToeButton extends JPanel {
+            State state = State.BLANK;
 
             @Override
             public Component[] getComponents() {
@@ -134,96 +225,6 @@ public class TicTacToe extends JFrame {
                 public void mouseExited(MouseEvent e) {
 
                 }
-            }
-
-            private Status evaluateStatus(Component[] toeButtons, int rows, int cols) {
-                // we need to check rows, columns, and 2 of the 4 corners if rows == cols
-                //columns
-                for (int i = 0; i < cols; i++) {
-                    State prevState = ((ToeButton) toeButtons[i]).state;
-                    boolean isEqualColumns = prevState != State.BLANK;
-                    for (int j = i + cols; j < cols * rows; j += cols) {
-                        State currState = ((ToeButton) toeButtons[j]).state;
-                        if (prevState != currState) {
-                            isEqualColumns = false;
-                            break;
-                        }
-                    }
-                    if (isEqualColumns) {
-                        System.out.println("is equal columns");
-                        return Status.WIN;
-                    }
-                }
-                //rows
-                for (int i = 0; i <= rows * cols - cols; i += cols) {
-                    State prevState = ((ToeButton) toeButtons[i]).state;
-                    boolean isEqualRows = prevState != State.BLANK;
-                    ;
-                    for (int j = i + 1; j < i + cols; j++) {
-                        State currState = ((ToeButton) toeButtons[j]).state;
-                        if (prevState != currState) {
-                            isEqualRows = false;
-                            break;
-                        }
-                    }
-                    if (isEqualRows) {
-                        System.out.println("is equal rows");
-                        return Status.WIN;
-                    }
-                }
-                //corners
-                if (rows == cols) {
-                    //evaluate corners
-                    boolean isEqual = false;
-                    State prevState = ((ToeButton) toeButtons[0]).state;
-                    for (int i = 1; i < cols; i++) {
-                        isEqual = prevState != State.BLANK;
-                        for (int j = i; j < rows; j++) {
-                            if (i != j) {
-                                continue;
-                            }
-                            State currState = ((ToeButton) toeButtons[j + cols]).state;
-                            if (prevState != currState) {
-                                isEqual = false;
-                            }
-                            break;
-                        }
-                        if (!isEqual) {
-                            break;
-                        }
-                    }
-                    prevState = ((ToeButton) toeButtons[cols - 1]).state;
-                    for (int i = cols - 2; i >= 0; i--) {
-                        isEqual = prevState != State.BLANK;
-                        for (int j = 1; j < rows; j++) {
-                            if (i + j != cols - 1) {
-                                continue;
-                            }
-                            State currState = ((ToeButton) toeButtons[i + cols * j]).state;
-                            if (prevState != currState) {
-                                isEqual = false;
-                                break;
-                            }
-                        }
-                        if (!isEqual) {
-                            break;
-                        }
-                    }
-                    if (isEqual) {
-                        System.out.println("is equal corners");
-                        return Status.WIN;
-                    }
-                }
-
-                // no more moves
-                for (int i = 0; i < rows * cols; i++) {
-                    State currState = ((ToeButton) toeButtons[i]).state;
-                    if (currState == State.BLANK) {
-                        return Status.CONTINUE;
-                    }
-                }
-
-                return Status.DRAW;
             }
         }
     }
